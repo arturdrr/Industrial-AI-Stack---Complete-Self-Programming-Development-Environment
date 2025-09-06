@@ -1,85 +1,146 @@
-Nosso Compromisso
-Nós, como membros, contribuidores e líderes, nos comprometemos a tornar a participação em nossa comunidade uma experiência livre de assédio para todos, independentemente de idade, tamanho corporal, deficiência visível ou invisível, etnia, características sexuais, identidade e expressão de gênero, nível de experiência, educação, status socioeconômico, nacionalidade, aparência pessoal, raça, casta, cor, religião ou identidade e orientação sexual.
+# Contributor Covenant Code of Conduct
 
-Comprometemo-nos a agir e interagir de maneiras que contribuam para uma comunidade aberta, acolhedora, diversa, inclusiva e saudável.
+## 🌟 Our Pledge
 
-Nossos Padrões
-Exemplos de comportamento que contribuem para um ambiente positivo para nossa comunidade incluem:
-* Demonstrar empatia e gentileza para com outras pessoas.
-* Ser respeitoso com opiniões, pontos de vista e experiências diferentes.
-* Dar e aceitar graciosamente feedback construtivo.
-* Aceitar a responsabilidade e pedir desculpas àqueles afetados por nossos erros, e aprender com a experiência.
-* Focar no que é melhor não apenas para nós como indivíduos, mas para a comunidade em geral.
+We as members, contributors, and leaders pledge to make participation in the **Industrial AI Stack** community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
 
-Exemplos de comportamento inaceitável incluem:
-* O uso de linguagem ou imagens sexualizadas, e atenção ou avanços sexuais de qualquer tipo.
-* Trolling, comentários insultuosos ou depreciativos, e ataques pessoais ou políticos.
-* Assédio público ou privado.
-* Publicar informações privadas de outras pessoas, como endereço físico ou de e-mail, sem sua permissão explícita.
-* Outras condutas que poderiam razoavelmente ser consideradas inadequadas em um ambiente profissional.
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-Responsabilidades de Aplicação
-Os líderes da comunidade são responsáveis por esclarecer e aplicar nossos padrões de comportamento aceitável e tomarão ações corretivas apropriadas e justas em resposta a qualquer comportamento que considerem inadequado, ameaçador, ofensivo ou prejudicial.
+## 🎯 Our Standards
 
-Os líderes da comunidade têm o direito e a responsabilidade de remover, editar ou rejeitar comentários, commits, código, edições de wiki, issues e outras contribuições que não estejam alinhadas a este Código de Conduta, e comunicarão os motivos das decisões de moderação quando apropriado.
+### ✅ **Examples of Positive Behavior**
 
-Escopo
-Este Código de Conduta se aplica a todos os espaços da comunidade, e também se aplica quando um indivíduo está representando oficialmente a comunidade em espaços públicos. Exemplos de representação de nossa comunidade incluem o uso de um endereço de e-mail oficial, postagem por meio de uma conta oficial de mídia social ou atuação como representante nomeado em um evento online ou offline.
+- **Using welcoming and inclusive language**
+- **Being respectful of differing viewpoints and experiences**  
+- **Gracefully accepting constructive criticism**
+- **Focusing on what is best for the community**
+- **Showing empathy towards other community members**
+- **Giving credit where credit is due**
+- **Being patient with newcomers and questions**
+- **Offering help and mentorship to others**
 
-Aplicação
-Casos de comportamento abusivo, assediador ou de outra forma inaceitável podem ser relatados aos líderes da comunidade responsáveis pela aplicação em contact@industrial-ai-stack.com. Todas as reclamações serão revisadas e investigadas prontamente e de forma justa.
+### ❌ **Unacceptable Behavior**
 
-Todos os líderes da comunidade são obrigados a respeitar a privacidade e a segurança do relator de qualquer incidente.
+- **Harassment, intimidation, or discrimination** in any form
+- **Trolling, insulting/depreciating comments, and personal attacks**
+- **Public or private harassment**
+- **Publishing others' private information** without permission
+- **Sexual attention or advances** of any kind
+- **Spam, promotional content,** or off-topic discussions
+- **Deliberate intimidation, stalking,** or following
+- **Other conduct which could reasonably be considered inappropriate**
 
-Diretrizes de Impacto na Comunidade
-Os líderes da comunidade seguirão estas Diretrizes de Impacto na Comunidade para determinar as consequências de qualquer ação que considerem em violação deste Código de Conduta:
+## 🛡️ Enforcement Responsibilities
 
-1.  Correção
-    *   Impacto na Comunidade: Uso de linguagem inadequada ou outro comportamento considerado não profissional ou indesejável na comunidade.
-    *   Consequência: Um aviso privado por escrito dos líderes da comunidade, fornecendo clareza sobre a natureza da violação e uma explicação do porquê o comportamento foi inadequado. Um pedido de desculpas público pode ser solicitado.
+Community leaders and maintainers are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 
-2.  Advertência
-    *   Impacto na Comunidade: Uma violação através de um único incidente ou série de ações.
-    *   Consequência: Uma advertência com consequências para o comportamento contínuo. Nenhuma interação com as pessoas envolvidas, incluindo interação não solicitada com aqueles que aplicam o Código de Conduta, por um período de tempo especificado. Isso inclui evitar interações em espaços da comunidade, bem como canais externos como mídias sociais. A violação desses termos pode levar a uma proibição temporária ou permanente.
+Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
-3.  Banimento Temporário
-    *   Impacto na Comunidade: Uma violação grave dos padrões da comunidade, incluindo comportamento inadequado sustentado.
-    *   Consequência: Um banimento temporário de qualquer tipo de interação ou comunicação pública com a comunidade por um período de tempo especificado. Nenhuma interação pública ou privada com as pessoas envolvidas, incluindo interação não solicitada com aqueles que aplicam o Código de Conduta, é permitida durante este período. A violação desses termos pode levar a um banimento permanente.
+## 📏 Scope
 
-4.  Banimento Permanente
-    *   Impacto na Comunidade: Demonstrar um padrão de violação dos padrões da comunidade, incluindo comportamento inadequado sustentado, assédio de um indivíduo ou agressão ou depreciação de classes de indivíduos.
-    *   Consequência: Um banimento permanente de qualquer tipo de interação pública dentro da comunidade.
+This Code of Conduct applies within all community spaces (GitHub repositories, Discord, social media, events), and also applies when an individual is officially representing the community in public spaces.
 
-Atribuição
-Este Código de Conduta é adaptado do Contributor Covenant, versão 2.1, disponível em https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
+## 🚨 Reporting Violations
 
-As Diretrizes de Impacto na Comunidade foram inspiradas na escada de aplicação do código de conduta da Mozilla.
+### **How to Report**
+If you experience or witness unacceptable behavior, please report it by contacting the community leaders at:
 
-Para respostas a perguntas comuns sobre este código de conduta, consulte o FAQ em https://www.contributor-covenant.org/faq. As traduções estão disponíveis em https://www.contributor-covenant.org/translations.
+- **Primary Contact**: contact@industrial-ai-stack.com
+- **Secondary Contact**: contact@industrial-ai-stack.com  
+- **Emergency Contact**: contact@industrial-ai-stack.com
 
-Outros formatos: text/markdown text/plain text/asciidoc
+### **What to Include**
+- **Your contact information**
+- **Names of any witnesses**
+- **Your account of what occurred**
+- **Screenshots or links** (if applicable)
+- **Any additional context** that would be helpful
 
-Certifique-se de preencher os detalhes de relatório e revisar a seção de aplicação antes de postar seu código de conduta. Você pode encontrar os espaços reservados pesquisando o texto por [NOTE.
+### **Response Promise**
+- **Initial response**: Within 24 hours
+- **Investigation**: Completed within 5 business days  
+- **Resolution**: Communicated within 7 business days
+- **Confidentiality**: Maintained throughout the process
 
-Explore Mais
-*   Traduções
-*   Recursos e Guias
-*   Adotantes em Destaque
-*   Perguntas Frequentes
-*   Sobre OES
-*   Apoie o Projeto
+## ⚖️ Enforcement Guidelines
 
-Entre em Contato
-info@ethicalsource.dev
+Community leaders will follow these guidelines in determining consequences:
 
-Social
-@EthicalSource@fosstodon.org
+### **1. 🔄 Correction**
+**Community Impact**: Use of inappropriate language or unprofessional behavior.
 
-Consultas de Mídia
-press@ethicalsource.dev
+**Consequence**: A private, written warning providing clarity about the violation and why it was inappropriate. A public apology may be requested.
 
-© Copyright 2025 Organization for Ethical Source. Em reconhecimento à privacidade como um direito humano digital, este site não usa cookies de rastreamento ou análises de terceiros. Nosso código-fonte é aberto e licenciado eticamente.
+### **2. ⚠️ Warning**
+**Community Impact**: A violation through a single incident or series of actions.
 
-Adotar a Versão Mais Recente
-Traduções
-Recursos
+**Consequence**: A warning with consequences for continued behavior. No interaction with the people involved for a specified period. This includes avoiding interactions in community spaces and external channels like social media. Violating these terms may lead to a temporary or permanent ban.
+
+### **3. ⏸️ Temporary Ban**
+**Community Impact**: A serious violation including sustained inappropriate behavior.
+
+**Consequence**: A temporary ban from any sort of interaction or public communication with the community for a specified period. No public or private interaction with people involved is allowed. Violating these terms may lead to a permanent ban.
+
+### **4. 🚫 Permanent Ban**
+**Community Impact**: Demonstrating a pattern of violation, sustained inappropriate behavior, harassment, or aggression toward individuals or groups.
+
+**Consequence**: A permanent ban from any sort of public interaction within the community.
+
+## 🌈 Diversity & Inclusion Statement
+
+The Industrial AI Stack project is committed to providing a welcoming and inspiring community for all. We believe that diverse perspectives and backgrounds strengthen our community and lead to better software.
+
+We actively encourage participation from:
+- **People of all backgrounds** and levels of experience
+- **International contributors** from all countries and cultures  
+- **Developers from underrepresented groups** in technology
+- **Students and career changers** learning AI and development
+- **Industry professionals** sharing their expertise
+
+## 🤝 Community Values
+
+### **Collaboration Over Competition**
+We succeed together. Share knowledge, help others, and build each other up.
+
+### **Innovation Through Inclusion**  
+Different perspectives lead to better solutions. Everyone's ideas matter.
+
+### **Quality Through Care**
+We take pride in our work and care about the experience of our users and contributors.
+
+### **Growth Through Learning**
+Mistakes are learning opportunities. We support each other's growth and development.
+
+## 📞 Additional Resources
+
+### **Community Channels**
+- **Discord**: [Join our server](https://discord.gg/industrial-ai-stack)
+- **GitHub Discussions**: For technical discussions
+- **Twitter**: [@IndustrialAI](https://twitter.com/IndustrialAI) for updates
+
+### **Support Resources**
+- **Mental Health**: If discussions affect your wellbeing, please prioritize your mental health
+- **Technical Help**: Check our documentation or ask in #help channel
+- **Career Support**: We maintain a job board and mentorship program
+
+### **External Resources**
+- [Open Source Diversity](https://opensourcediversity.org/)
+- [Code of Conduct Template](https://www.contributor-covenant.org/)
+- [Django Code of Conduct](https://www.djangoproject.com/conduct/)
+
+## 📝 Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
+
+For answers to common questions about this code of conduct, see https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.
+
+## 📄 License
+
+This Code of Conduct is licensed under the Creative Commons Attribution 4.0 International License.
+
+---
+
+**Together, we build not just great software, but a great community.** 🚀
+
+*Last updated: [Current Date]*
+*Version: 2.1*
